@@ -1,1 +1,1 @@
-console.log("Hello yolo")
+console.log("Hello yolo Javascript")
