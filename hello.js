@@ -1,1 +1,1 @@
-const pair = "Extra com"
+const pair = "Extra commit hello"
