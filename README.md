@@ -1,2 +1,2 @@
 Hello
-There is a badge GitHub repo
+There is a badge GitHub repos
